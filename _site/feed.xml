@@ -1,0 +1,105 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>snacky101</title>
+  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
+  <updated>2023-02-03T00:28:06+08:00</updated>
+  <author>
+    <name>snacky101</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 snacky101 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>소프트웨어 장인</title>
+    <link href="http://localhost:4000/posts/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%82%B0%EB%93%9C%EB%A1%9C-%EB%A7%8C%EC%BF%A0%EC%86%8C/" rel="alternate" type="text/html" title="소프트웨어 장인" />
+    <published>2023-02-02T23:58:00+08:00</published>
+  
+    <updated>2023-02-02T23:58:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%82%B0%EB%93%9C%EB%A1%9C-%EB%A7%8C%EC%BF%A0%EC%86%8C/</id>
+    <content src="http://localhost:4000/posts/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%82%B0%EB%93%9C%EB%A1%9C-%EB%A7%8C%EC%BF%A0%EC%86%8C/" />
+    <author>
+      <name>snacky101</name>
+    </author>
+
+  
+    
+    <category term="review" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Main Topic
+
+개발자로서의:
+
+
+  경험담
+  조언
+
+
+Summary
+
+요즘 개발
+
+
+  개발자의 덕목
+  개발자의 실력은 연차와 무관
+  개발자의 역할 변화
+    
+      과거: 코더
+      현재: 프로페셔널 &amp;lt;- SW 장인정신이 필요한 이유
+    
+  
+
+
+애자일
+
+
+  변화 -&amp;gt; 빠른 피드백
+  분류
+    
+      절차적(올바른 방향)
+      기술적(올바른 실행)
+    
+  
+  (개발자들의) 책임과 권한이 높아짐 + 필요역량도 높아짐
+  매니페스토 + 원칙
+  목적
+    
+      (고객, 회사, 동료와의) 신뢰와 협력 -&amp;gt; 시너시가 높아지도록
+      투자 대비 효율이 높아지록
+    
+  
+
+
+소프트웨어 장인정신
+
+  정의
+    
+     ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
