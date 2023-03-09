@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>snacky101</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-03-07T21:21:02+08:00</updated>
+  <updated>2023-03-10T01:37:55+08:00</updated>
   <author>
     <name>snacky101</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8/" rel="alternate" type="text/html" title="객체지향의 사실과 오해 - 조영호 (TBD)" />
     <published>2023-03-07T19:05:00+08:00</published>
   
-    <updated>2023-03-07T19:05:00+08:00</updated>
+    <updated>2023-03-07T21:21:21+08:00</updated>
   
     <id>http://localhost:4000/posts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8/</id>
     <content src="http://localhost:4000/posts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8/" />
@@ -33,6 +33,8 @@
     </author>
 
   
+    
+    <category term="review" />
     
   
 
