@@ -49,7 +49,7 @@
 <meta property="twitter:title" content="객체지향의 사실과 오해 - 조영호 (TBD)" />
 <meta name="google-site-verification" content="XxiWZQUIgQZtB2Ja3AR3nQghqdwhNkHclk6xK8y9Xx4" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-03-07T21:21:21+08:00","datePublished":"2023-03-07T19:05:00+08:00","description":"객체지향이란 “자율적인 객체들의 공동체를 설계” 하는 것이다.","headline":"객체지향의 사실과 오해 - 조영호 (TBD)","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8/"},"url":"http://localhost:4000/posts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-03-10T01:38:13+08:00","datePublished":"2023-03-07T19:05:00+08:00","description":"객체지향이란 “자율적인 객체들의 공동체를 설계” 하는 것이다.","headline":"객체지향의 사실과 오해 - 조영호 (TBD)","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8/"},"url":"http://localhost:4000/posts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -598,10 +598,10 @@
 
 
 <em class=""
-    data-ts="1678195281"
+    data-ts="1678383493"
     data-df="ll"
     data-toggle="tooltip" data-placement="bottom">
-  Mar  7, 2023
+  Mar 10, 2023
 </em>
 
     </span>
@@ -647,8 +647,8 @@
 
 <!-- return element -->
 <span class="readtime" data-toggle="tooltip" data-placement="bottom"
-  title="221 words">
-  <em>1 min</em> read</span>
+  title="569 words">
+  <em>3 min</em> read</span>
 
     </div>
 
@@ -682,6 +682,53 @@
     <ul>
       <li>객체는 실제 세계의 무언가를 “의인화”한 것으로 이해하면 용이하다.</li>
       <li>객체에 대해 실제 세계는 “은유” 표현으로 생각할 수 있다.</li>
+    </ul>
+  </li>
+  <li>추상화는:
+    <ul>
+      <li>공통점으로 객체를 묶고,</li>
+      <li>객체간의 차이점을 무시하여 분류(classification)하는 것</li>
+    </ul>
+  </li>
+  <li>
+    <p>타입도 결국 추상화이다.</p>
+  </li>
+  <li>추상화의 대상은:
+    <ul>
+      <li>행동으로 정의되어야 한다.
+        <ul>
+          <li>이러한 특성으로 인해서, 다형성과 캡슐화의 특성을 가진다.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>타입을 쓰는 이유는, 객체의 동적인 특성을 추상화 할 수 있기 때문이다.</p>
+  </li>
+  <li>역할, 책임, 협력
+    <ul>
+      <li>책임
+        <ul>
+          <li>책임은 객체의 공용 인터페이스(public interface) 를 구성한다.</li>
+          <li>즉, 다른 객체에게 응답을 주거나, 자신의 상태를 변경하거나, 다른 객체에게 요청을 하도록 하는 것을 ‘책임’ 이라고 할 수 있다.</li>
+        </ul>
+      </li>
+      <li>역할
+        <ul>
+          <li>유사한 협력을 추상화한 것</li>
+          <li>역할은 협력의 추상화이기 때문에, 해당 역할의 대상 객체는, 동일한 역할을 수행하는 다른 객체에 의해 대체될 수 있다.</li>
+        </ul>
+      </li>
+      <li>
+        <p>협력</p>
+      </li>
+      <li>객체지향 설계 기법
+        <ul>
+          <li>책임-주도 설계: 역할, 책임, 협력에 집중해 설계</li>
+          <li>디자인 패턴: 책임-주도 설계의 답안지</li>
+          <li>테스트 주도 개발: 행동을 먼저 정의하기 때문에 좋은 프랙티스이다.</li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
